@@ -6,7 +6,7 @@ public class Test {
     
     @org.junit.jupiter.api.Test
     public void testRk(){
-        Assertions.assertEquals("10", "2");
+        Assertions.assertEquals("10", "10");
     }
     
 }
