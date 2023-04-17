@@ -1,8 +1,10 @@
 pipeline{
   agent any
   
-  stages{
+  stages{ 
+    
     stage('Hello){
+          
           steps{
             echo 'Welome To Test Via CMD'
           }
