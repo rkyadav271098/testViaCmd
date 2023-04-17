@@ -3,7 +3,7 @@ pipeline{
   
   stages{ 
     
-    stage('Hello){
+    stage('Hello'){
           
           steps{
             echo 'Welome To Test Via CMD'
